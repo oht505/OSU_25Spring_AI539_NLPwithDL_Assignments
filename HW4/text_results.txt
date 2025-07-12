@@ -1,0 +1,100 @@
+
+Prompt:
+Once upon a time, there was a invisible dragon roared on top of snowy mountain.
+
+<function argmaxDecode at 0x155553cd19e0>
+Once upon a time, there was a invisible dragon roared on top of snowy mountain. he was so brave that he decided to go on an adventure. he flew around the mountain, looking for som
+ething special to show off.  suddenly, he heard a loud noise. he looked around and saw a big dragon! the dragon was so scared that he flew away. he flew away and hid behind a tree
+.  the dragon was so happy that he had found his way back home. he flew back home and told his family about his adventure. they all said goodbye and the dragon flew away.  the dragon was so happy that he had been brave enough to explore the mountain. he knew that he had been brave enough to explore the mountain.
+
+
+
+
+<function sampleDecode at 0x1553e3b13600>
+Once upon a time, there was a invisible dragon roared on top of snowy mountain. he was always so graceful that he had to do all sorts of things in the world.  one day, he was walk
+ing through the forest and he saw a little girl. she was only three years old, but she wanted to be her friend.  the dragon was so happy to meet her. he said," hi, i'm the queen o
+f you! can i have some of my friends?"  the girl was so excited and said," of course! i have a great time!"  the dragon smiled and said," that sounds like fun!"  the little girl and the dragon continued on their journey to find more friends. they were so happy that the dragon was even more graceful than before.
+
+
+
+
+<function nucleusDecode at 0x1553e3b136a0>
+Once upon a time, there was a invisible dragon roared on top of snowy mountain. he was so happy to be safe. he was looking forward to his next adventure.  he asked his mom," can i
+ go on an adventure?"  his mom said," yes, you can go on an adventure."  the dragon roared and jumped into the sky. he was so excited to explore the world and see all the wonderfu
+l things.  but then, he heard a loud noise. it was a big bear! the dragon was scared and he was scared. he ran away and hid behind a tree.  the bear was so scared that he ran away
+ and hid behind a tree. he stayed safe and sound until he was safe.  the dragon was so happy that he ran back home. he never forgot his adventure and he was never forgot the wonderful adventure he had.
+
+
+=============================================================================
+
+Prompt:
+Can you explain how a hash table handles collisions using separate chaining?
+
+
+
+<function argmaxDecode at 0x155553cd19e0>
+Can you explain how a hash table handles collisions using separate chaining? " yes," said the <UNK>."
+ it's a special thing that i can use to make a special dish."  <UNK> was so excited. he wanted to mak
+e a dish. he asked his mom to help him. " can you help me make a dish?" said his mom.  <UNK> was so e
+xcited. he couldn't wait to try it.  his mom smiled and said," yes, you can use the dish. but you can
+ use it to make a dish dish. it's very special."  <UNK> was so excited. he put the dish on the dish a
+nd it tasted so good! " thank you, <UNK>!" said his mom.  <UNK> smiled and said," you did a great job!"
+
+
+
+
+<function sampleDecode at 0x1553e3b13600>
+Can you explain how a hash table handles collisions using separate chaining?  <UNK> was excited, so s
+he jumped up and down and down. she wanted to be the tallest <UNK>, so she asked her mom for help.  h
+er mom smiled and said, â€œyes, letâ€ ™ s make a big, <UNK>  they made a big, <UNK> and a big bowl of
+ <UNK>. <UNK> was so excited that she took a big bowl of milk and poured it into the bowl.  <UNK> was
+ so proud of her work! she ate the milk and then she put the bowl of milk into the bowl.  <UNK> smiled and said," i'm so proud of you!"  and that's how <UNK> turned to be a big smile on her face.
+
+
+
+
+<function nucleusDecode at 0x1553e3b136a0>
+Can you explain how a hash table handles collisions using separate chaining?  <UNK> was excited, so s
+he couldn't wait to try it.  <UNK> said," i want to try it!"  the table <UNK> was so excited to try i
+t. " yes, i want to try it!" she said, holding the <UNK>.  <UNK>'s eyes lit up. she said," i want to 
+try it."  <UNK> thought for a moment. she said," i want to try it!"  the table smiled and said," ok, 
+you can do it!"  <UNK> was so happy. she had done it! she had tried the best thing and was proud of herself.  the table was so proud of her accomplishment.
+
+
+=============================================================================
+
+Prompt:
+Ambivalent at run the sporadically they
+
+
+
+<function argmaxDecode at 0x155553cd19e0>
+Ambivalent at run the sporadically they were playing in the park. <UNK> was running around and laughi
+ng. suddenly, <UNK> heard a loud noise. it was a loud noise and <UNK> was scared.  <UNK> ran to the <
+UNK> and saw a big, scary monster. the monster was growling and <UNK> was scared.  the monster was ve
+ry scared and started to run away. <UNK> was so scared that he ran away.  <UNK> ran as fast as he cou
+ld. he was so scared that he couldn't escape. he ran and ran until he was too fast.  the monster was 
+gone. he ran and ran until he was safe. <UNK> was safe and he was safe.  <UNK> was relieved that he had escaped from the monster. he was safe and he was safe.
+
+
+
+
+<function sampleDecode at 0x1553e3b13600>
+Ambivalent at run the sporadically they were very excited. they were racing on the street. <UNK> want
+ed to win, but her brother tom didn't know how to win. he asked <UNK> for help.  <UNK> said," no, tom
+, you can't win! i'm not ready to win."  <UNK> was very sad. he wished he could not win it. he did no
+t want to be his friend. he ran to the <UNK> and tried to win.  <UNK> was very angry. she said," you 
+are too big! i want you to win!"  tom was very sad. he didn't want to play anymore. he said," this is
+ not nice. i just want to win!"  <UNK> was very upset. he did not want to win. he tried to run away, 
+but he was too slow. he had to keep running and trying.  <UNK> was very sad. he had worked hard to wi
+n. he had to get back to the park, but he was too slow. he was too tired.  he had to go home. he had to stay in the park and play.
+
+
+
+<function nucleusDecode at 0x1553e3b136a0>
+Ambivalent at run the sporadically they were very excited. they were going to play in the park.  <UNK
+> ran as fast as she could, but she was too fast. she had to stay in the park and was so fast.  when 
+<UNK> got to the park, she saw a big slide. she ran up to the slide and sat on it. she was so excited
+!  then she saw a big slide. she ran to it and climbed up. she was so fast. she had to go first, but 
+then she started to feel tired.  suddenly, she felt a tug on her face. she was so tired she fell down
+. she looked up at the sky and saw a big tree.  <UNK> was so tired. she had to go to the park. she smiled and fell asleep. she had a good time and was happy.
