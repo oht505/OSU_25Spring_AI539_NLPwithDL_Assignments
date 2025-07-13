@@ -9,9 +9,9 @@
   - Frequency plots for top tokens
   - Distribution analysis
 
-(<img width="1400" height="500" alt="Frequency Distribution and Cumulative Fraction Covered" src="https://github.com/user-attachments/assets/d20c8acb-db49-492f-9ee9-79969ead2833" />)
+<img width="1400" height="500" alt="Frequency Distribution and Cumulative Fraction Covered" src="https://github.com/user-attachments/assets/d20c8acb-db49-492f-9ee9-79969ead2833" />
 
-![HW1 Output](<img width="640" height="480" alt="glove_marked" src="https://github.com/user-attachments/assets/1d039a69-bc79-4d80-9ff0-685b0853829f" />)
+<img width="640" height="480" alt="glove_marked" src="https://github.com/user-attachments/assets/1d039a69-bc79-4d80-9ff0-685b0853829f" />
 
 See: [`HW1/`](./HW1/)
 
