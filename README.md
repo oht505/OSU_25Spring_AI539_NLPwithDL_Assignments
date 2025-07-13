@@ -25,7 +25,10 @@ See: [`HW1/`](./HW1/)
   - Parity Recurrent Neural Network
   - Bidirectional GRUs
 
-![HW2 Output](./images/HW2_perplexity_plot.png)
+<img width="3792" height="1992" alt="hiddenDimension" src="https://github.com/user-attachments/assets/3d5c69a5-440d-42b7-b317-a1b6dda65f2b" />
+<img width="293" height="188" alt="q12_1" src="https://github.com/user-attachments/assets/cc35ff93-ac94-44a8-807a-68ca9fb6106b" />
+<img width="215" height="223" alt="q12_2" src="https://github.com/user-attachments/assets/d967033d-1fde-4fb9-acc4-761f16edb369" />
+<img width="241" height="185" alt="q12_3" src="https://github.com/user-attachments/assets/f59b76f5-0efe-4000-a0c9-eccaf782983d" />
 
 See: [`HW2/`](./HW2/)
 
@@ -39,7 +42,10 @@ See: [`HW2/`](./HW2/)
   - Attention model (Encoder, Decoder)
   - Comparison attention model with none and mean models
 
-![HW3 Output](./images/HW3_finetune_sample.png)
+<img width="714" height="254" alt="dog" src="https://github.com/user-attachments/assets/9d8a549d-a793-4fd7-8ecb-e6f26560d4b1" />
+<img width="740" height="285" alt="dog_mean_visual" src="https://github.com/user-attachments/assets/cec597fc-2019-45ff-bc82-123598f2724c" />
+<img width="734" height="265" alt="dog_none_visual" src="https://github.com/user-attachments/assets/e574e5d9-efd4-46bc-809b-bd0c58f1b7db" />
+<img width="749" height="305" alt="dog_zeroDropOut" src="https://github.com/user-attachments/assets/6791d704-c9cb-4278-aa50-3d14d48de730" />
 
 See: [`HW3/`](./HW3/)
 
@@ -53,7 +59,9 @@ See: [`HW3/`](./HW3/)
   - Transformer-based Autoregressive Language Models
   - Decoding Strategies for Autoregressive Language Models
 
-![HW4 Output](./images/HW4_privacy_results.png)
+![2_argmax](https://github.com/user-attachments/assets/ba12681c-63db-40df-8bf2-131ce7ffaa55)
+![2_nucleus](https://github.com/user-attachments/assets/8e009622-6178-4ef5-b4f2-fb6030d060fd)
+![2_sample](https://github.com/user-attachments/assets/b94f986b-7382-4aeb-888b-e9424cc5d66a)
 
  See: [`HW4/`](./HW4/)
 
